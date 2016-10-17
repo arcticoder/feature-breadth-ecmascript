@@ -1,0 +1,1 @@
+Array.prototype.includes compares searchElement to the elements of the array, in ascending order, using the SameValueZero algorithm, and if found at any position, returns true; otherwise, false is returned.
